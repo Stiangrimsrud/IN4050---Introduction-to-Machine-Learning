@@ -1,1 +1,1 @@
-# IN4050---Introduction-to-Machine-Learning
+# IN4050 - Introduction to Machine Learning
